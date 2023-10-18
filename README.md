@@ -82,6 +82,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
              title="TypeScript" alt="TypeScript"
              width="40" height="40"/></a>&nbsp;
+    <a href="https://jestjs.io/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
+             title="Jest" alt="Jest"
+             width="40" height="40"/></a>&nbsp;         
     <a href="https://eslint.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"
              title="Eslint" alt="Eslint "
