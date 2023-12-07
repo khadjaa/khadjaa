@@ -40,7 +40,7 @@
              width="40" height="40"/></a>&nbsp;
     <a href="https://v3.ru.vuejs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
-             title="React" alt="Vue.js"
+             title="Vue.js" alt="Vue.js"
              width="40" height="40"/></a>&nbsp;
     <a href="https://redux.js.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
@@ -96,11 +96,11 @@
              width="40" height="40"/></a>&nbsp;
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
-             title="Git" alt="Docker"
+             title="Docker" alt="Docker"
              width="40" height="40"/></a>&nbsp;
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
-             title="Git" alt="C#"
+             title="C#" alt="C#"
              width="40" height="40"/></a>&nbsp;
 </div>
 
