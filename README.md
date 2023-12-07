@@ -16,12 +16,12 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/khadjaa?tab=repositories" target="_blank">
+    <!-- <a href="https://github.com/khadjaa?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=khadjaa&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="khadjaa github repositories" 
              alt="khadjaa github stats"
              width="49%"/>
-    </a>
+    </a> -->
     <a href="https://github.com/khadjaa?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadjaa&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
              title="khadjaa github repositories"
@@ -38,14 +38,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
              title="React" alt="React"
              width="40" height="40"/></a>&nbsp;
+    <a href="https://v3.ru.vuejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
+             title="React" alt="Vue.js"
+             width="40" height="40"/></a>&nbsp;
     <a href="https://redux.js.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
              title="Redux" alt="Redux "
              width="40" height="40"/></a>&nbsp;
-<!--     <a href="https://angular.io/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
-             title="Angular" alt="Angular "
-             width="40" height="40"/></a>&nbsp;          -->
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
              title="NextJS" alt="NextJS "
@@ -94,14 +94,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"
-             title="Photoshop" alt="Photoshop"
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+             title="Git" alt="Docker"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
-         title="WebStorm" alt="WebStorm"
-         width="40" height="40"/></a>&nbsp;
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+             title="Git" alt="C#"
+             width="40" height="40"/></a>&nbsp;
 </div>
 
 <br/>
